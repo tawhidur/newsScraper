@@ -147,7 +147,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Contact
 
 **Tawhidur Rahman** — Senior SQA Lead | CSM  
-🌐 [Portfolio](https://tawhidur.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/tawhidur/) · 🐦 [@Tawhid_CSE](https://twitter.com/Tawhid_CSE) · ✉️ tawhid.cse@gmail.com
+🌐 [Portfolio](https://tawhidur.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/tawhid1/) · 🐦 [@Tawhid_CSE](https://twitter.com/Tawhid_CSE) · ✉️ tawhid.cse@gmail.com
 
 ---
 
